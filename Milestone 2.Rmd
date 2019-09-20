@@ -1,0 +1,16 @@
+---
+title: "Milestone 2: Final Project Pros and Cons"
+author: "Carine Hajjar"
+date: "9/19/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Analysis of Death Row Inmates: Kemi Akenzua
+This project was incredibly powerful. It used data to gage the tone of inmates' last words. There is a huge amount of data in this project and it is displayed in multiple, helpful ways: pie chart with sentiment of last words, word cloud with most frequently used words, a dot plot with trends in sentiments overtime, and randomized data table with full statements. I really like how there is a pie chart that shows the sentiments expressed in last statements. The only con I would point out here is that gaging sentiment can be largely subjective. Additionally, the title says "looking at 368 words" and there are numbers by each wedge-- I'm not sure what these mean and the creator of the project could have been more clear. Another pro was the use of a randomized generator for Last Statements. It was very powerful to get to read different, unrelated statements. The only issue here was that it was supposed to generate three statements and only did one. Overall, this is an amazing project- it uses data to raise awareness about an issue that deeply moved the student.
+
+## US-China Trade: Michael Montella 
+This is another great project: it is definitely driven by the student's passion for the issue and the quality shines through. I really like how it shows the changes in trade level between the US and China overtime in various sectors and how you can compare these sectors. Additionally, the different color used to plot each sector onto the dot plot and the well-formatted key makes this a very user-friendly app. Overall, the project clearly presents a lot of data in a meaningul and transparent way. However, Michael only uses dot plots throughout the entire app and I think that another form of data presentation could have made the project more visually stimulating. Furthermore, this could have allowed him to explore the data in a different way that dot plots cannot capture. Overall, the data is clean and well-presented. 
